@@ -1,0 +1,4 @@
+<?php
+/* FORK ONLY */
+phpinfo();
+?>
